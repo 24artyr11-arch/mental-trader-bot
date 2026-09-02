@@ -10,7 +10,7 @@ load_dotenv()
 # -----------------------------
 # CONFIG
 # -----------------------------
-BOT_TOKEN = os.getenv("BOT_TOKEN")
+BOT_TOKEN = os.getenv("8711259133:AAFyajB76ZInzqcG8HEuNijgEiSV42rdCG0")
 
 # Fixed BTC rate. It will NOT update automatically.
 BTC_USD_RATE = 77000
